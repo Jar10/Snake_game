@@ -4,7 +4,7 @@ ini code gamenya perlu anda ketahui, anda perlu menginstall terlebih dahalu pyth
 setelah anda menginstall bahasa pemograman pythonnya, anda perlu menginstall library pygame terlebihh dahalu.
 setelah itu code bisa di jalankan.
 SEKALI LAGI DI YOUTUBE BANYAK.
-V-python yg saya gunakan 3.11.3
+V-python yg gua gunakan 3.11.3
 
 
 # NOTE
