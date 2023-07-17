@@ -1,8 +1,9 @@
 # BACA COYYY!!
 hola,
-ini code gamenya perlu anda ketahui, anda perlu menginstall terlebih dahalu pythonnya karna ini menggunakan bahasa pemograman python, untuk penginstalan banyak kok di Yt jgn males.
+ini code gamenya perlu anda ketahui, anda perlu menginstall terlebih dahalu pythonnya di divice leptop/pc kalian masing, karna ini menggunakan bahasa pemograman python. untuk penginstalan banyak kok di Yt jgn males.
 setelah anda menginstall bahasa pemograman pythonnya, anda perlu menginstall library pygame terlebihh dahalu.
 setelah itu code bisa di jalankan.
+SEKALI LAGI DI YOUTUBE BANYAK.
 V-python yg saya gunakan 3.11.3
 
 
